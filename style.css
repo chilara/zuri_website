@@ -14,6 +14,7 @@ body{
     top: 0;
     left: 0;
     right: 0;
+    z-index: 1;
 
 }
 
@@ -165,7 +166,7 @@ a{
     height: 10%;
     position: absolute;
     left: 54%;
-    top: 46%;
+    top: 50%;
 }
 
 
@@ -241,7 +242,7 @@ a{
     width: 13%;
     height: 13%;
     position: absolute;
-    top: 145%;
+    top: 160%;
     left: 27%;
 }
 
@@ -249,7 +250,7 @@ a{
 .why{
     color: #e7332b;
     position: absolute;
-    top: 155%;
+    top: 170%;
     left: 5%;
     font-weight: 400;
 }
@@ -264,7 +265,7 @@ a{
 
 .here{
     position: absolute;
-    top: 160%;
+    top: 175%;
     left: 5%;
     width: 54%;
     font-weight: 700;
@@ -275,6 +276,87 @@ a{
     width: 13%;
     height: 25%;
     position: absolute;
-    top: 155%;
+    top: 175%;
     right: 24%;
+}
+
+
+
+.boxes{
+    display: flex;
+    align-content: space-between;
+    
+    
+}
+
+
+.first{
+    padding: 2%;
+    background-color: #e7332b;
+    border-radius: 5%;
+    position: absolute;
+    top: 210%;
+    left: 5%;
+    color: #ffffff;
+    width: 25%;
+    height: 50%;
+    
+}
+
+.second{
+    padding: 2%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    position: absolute;
+    top: 210%;
+    left: 35.5%;
+    width: 25%;
+    height: 50%;
+    
+    
+}
+
+
+.third{
+    padding: 2%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    position: absolute;
+    top: 210%;
+    right: 5%;
+    width: 25%;
+    height: 50%;
+    
+}
+
+
+.image9{
+    width: 34%;
+    height: 34%;
+    position: absolute;
+    bottom: 66.5%;
+    left: 67%;
+    
+
+}
+
+.image10{
+    width: 35%;
+    height: 35%;
+    position: absolute;
+    bottom: 65.5%;
+    left: 65%;
+    
+
+}
+
+
+.image11{
+    width: 35%;
+    height: 35%;
+    position: absolute;
+    bottom: 65.5%;
+    left: 65%;
+    
+
 }
