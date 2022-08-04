@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
@@ -268,7 +272,7 @@ a{
     top: 165%;
     left: 5%;
     width: 54%;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 
@@ -489,7 +493,7 @@ a{
     width: 45%;
     position: absolute;
     top: 450%;
-    left: 5%;
+    left: 8%;
 
 }
 
@@ -497,3 +501,100 @@ a{
     color: #e7332b;
     font-weight: 500;
 }
+
+
+.image15{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: 470%;
+    left: 40%;
+    
+}
+
+
+.areas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 7em ;
+    position: absolute;
+    top: 480%;
+
+}
+
+
+.block1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    width: 30%;
+    padding: 5px;
+    margin-bottom: 2em;
+    
+}
+
+/* .image16{
+    width: 30%;
+    height: 30%;
+}
+
+.image17{
+    width: 30%;
+    height: 30%;
+    
+
+}
+   
+.image18{
+    width: 30%;
+    height: 30%;
+
+} */
+
+
+.button2{
+    background-color: #e7332b;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border-radius: 50px;
+    text-align: center;
+    position: absolute;
+    left: 45%;
+    top: 575%;
+
+}
+
+
+.hr3{
+    width: 83%;
+    margin-top: 218%;
+
+
+}
+
+.image33{
+    width: 15%;
+    height: 15%;
+    position: absolute;
+    top: 600%;
+    left: 17%;
+}
+
+.got{
+    color: #e7332b;
+    font-size: large;
+    position: absolute;
+    top: 610%;
+    left: 46%;
+}
+
+
+.freq{
+    position: absolute;
+    top: 614%;
+    left: 36%;
+}
+
