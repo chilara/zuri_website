@@ -18,7 +18,7 @@ body{
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
+    z-index: 2;
 
 }
 
@@ -151,7 +151,7 @@ a{
     text-align: center;
     position: absolute;
     left: 45%;
-    top: 70%;
+    top: 73%;
 
 }
 
@@ -170,7 +170,7 @@ a{
     height: 10%;
     position: absolute;
     left: 54%;
-    top: 46%;
+    top: 48%;
 }
 
 
@@ -191,7 +191,7 @@ a{
     width: 8%;
     height: 8%;
     position: absolute;
-    top: 75%;
+    top: 77%;
     left: 32%;
 }
 
@@ -199,15 +199,17 @@ a{
     width: 15%;
     height: 15%;
     position: absolute;
-    top: 75%;
+    top: 77%;
     left: 48%;
 }
 
 .hr{
     width: 93%;
-    margin-top: 3%;
+
 
 }
+
+
 
 
 .section1{
@@ -536,24 +538,6 @@ a{
     
 }
 
-/* .image16{
-    width: 30%;
-    height: 30%;
-}
-
-.image17{
-    width: 30%;
-    height: 30%;
-    
-
-}
-   
-.image18{
-    width: 30%;
-    height: 30%;
-
-} */
-
 
 .button2{
     background-color: #e7332b;
@@ -568,9 +552,12 @@ a{
 }
 
 
+
+
 .hr3{
     width: 83%;
-    margin-top: 218%;
+    margin-top: 215%;
+    /* border: 2px solid red; */
 
 
 }
@@ -585,16 +572,383 @@ a{
 
 .got{
     color: #e7332b;
-    font-size: large;
+    font-weight: 500;
     position: absolute;
-    top: 610%;
+    top: 614%;
     left: 46%;
 }
 
 
 .freq{
     position: absolute;
-    top: 614%;
+    top: 619%;
     left: 36%;
 }
+
+
+.questions{
+    border: 1px solid grey;
+    width: 75%;
+    height: 12%;
+    position: absolute;
+    top: 639%;
+    left: 13%;
+    
+}
+
+.questions1{
+    border: 1px solid grey;
+    width: 75%;
+    height: 12%;
+    position: absolute;
+    top: 651%;
+    left: 13%;
+   
+}
+
+
+.questions2{
+    border: 1px solid grey;
+    width: 75%;
+    height: 12%;
+    position: absolute;
+    top: 663%;
+    left: 13%;
+    
+    
+}
+
+.questions3{
+    border: 1px solid grey;
+    width: 75%;
+    height: 12%;
+    position: absolute;
+    top: 675%;
+    left: 13%;
+    
+}
+
+.questions4{
+    border: 1px solid grey;
+    width: 75%;
+    height: 12%;
+    position: absolute;
+    top: 687%;
+    left: 13%;
+   
+}
+
+
+
+
+
+
+.sgq{
+    text-align: center;
+    position: absolute;
+    left: 34%;
+    top: 720%;
+}
+
+
+.button3{
+    background-color: #e7332b;
+    color: white;
+    border-radius: 30px;
+    width: 15%;
+    text-align: center;
+    position: absolute;
+    left: 45%;
+    top: 720%;
+    padding: 10px;
+
+}
+
+
+
+
+
+.hr5{
+    width: 83%;
+    margin-top: 73%;
+}
+
+.image34{
+    width: 15%;
+    height: 15%;
+    position: absolute;
+    top: 755%;
+    left: 14%;
+}
+
+
+.structure{
+    position: absolute;
+    top: 770%;
+    left: 46%;
+    color: #e7332b;
+    font-weight: 500;
+}
+
+.program{
+    position: absolute;
+    top: 774%;
+    left: 39%;
+    
+}
+
+.image35{
+    width: 18%;
+    height: 18%;
+    position: absolute;
+    top: 760%;
+    right: 8%;
+}
+
+
+
+.broad{
+    text-align: center;
+    position: absolute;
+    top: 782%;
+    left: 32%;
+}
+
+.image36{
+    width: 18%;
+    height: 18%;
+    position: absolute;
+    top: 826%;
+
+}
+
+.full-time{
+    background-color: #141E27;
+    width: 35%;
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    position: absolute;
+    top: 795%;
+    left: 13%;
+
+}
+
+.part-time{
+    background-color: #141E27;
+    width: 35%;
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    position: absolute;
+    top: 795%;
+    right: 13%;
+    z-index: 1;
+
+}
+
+
+.image37{
+    width: 18%;
+    height: 18%;
+    position: absolute;
+    top: 75%;
+    left: 75%;
+
+}
+
+.image38{
+    width: 45%;
+    height: 35%;
+    position: absolute;
+    top: 60%;
+    right: 4%;
+
+}
+
+.image39{
+    width: 15%;
+    height: 20%;
+    position: absolute;
+    top: 880%;
+    right: 8%;
+
+}
+
+.image40{
+    width: 10%;
+    height: 12%;
+    position: absolute;
+    top: 900%;
+    left: 8%;
+
+}
+
+.last-con{
+    background-color: #e7332b;
+    border-radius: 20px;
+    width: 80%;
+    height: 50%;
+    color: white;
+    position: absolute;
+    top: 915%;
+    left: 9%;
+}
+
+.image41{
+    width: 35%;
+    height: 35%;
+    position: absolute;
+    top: 20%;
+    
+
+}
+
+
+.image42{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    left: 75%;
+    
+
+}
+
+
+.started{
+    
+    position: absolute;
+    left: 45%;
+    top: 10%;
+}
+
+.break{
+    position: absolute;
+    left: 36%;
+    top: 25%;
+   
+    
+}
+
+.break1{
+    position: absolute;
+    left: 37%;
+    top: 40%;
+   
+    
+}
+
+.image43{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    right: 75%;
+    top: 60%;
+    
+
+}
+
+.button4{
+    background-color: white;
+    color: #e7332b;
+    border-radius: 30px;
+    width: 10%;
+    text-align: center;
+    position: absolute;
+    left: 45%;
+    top: 70%;
+    padding: 10px;
+
+}
+
+.image44{
+    width: 15%;
+    height: 25%;
+    position: absolute;
+    left: 85%;
+    top: 75%;
+    
+
+}
+
+
+
+.image45{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    left: 9%;
+    top: 968%;
+    
+
+}
+
+
+.image46{
+    position: absolute;
+    right: 20%;
+    top: 975%;
+    
+
+}
+
+
+.image47{
+    position: absolute;
+    right: 17%;
+    top: 975%;
+    
+}
+
+.image48{
+    position: absolute;
+    right: 14%;
+    top: 975%;
+    
+}
+
+.image49{
+    position: absolute;
+    right: 11%;
+    top: 975%;
+    
+
+}
+
+
+.copyright{
+    position: absolute;
+    left: 9%;
+    top: 982%;
+
+}
+
+
+.privacy{
+    position: absolute;
+    right: 23%;
+    top: 982%;
+    
+
+}
+
+
+.good{
+    position: absolute;
+    right: 11%;
+    top: 982%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
