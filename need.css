@@ -1,0 +1,59 @@
+
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    position: fixed;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+
+.img1{
+    position: absolute;
+    left: 7%;
+}
+
+
+.home{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    position: absolute;
+    left: 58%;
+}
+
+.impact{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    position: absolute;
+    left: 65%;
+}
+
+
+.why-us{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    position: absolute;
+    left: 72%;
+}
+
+.btn1{
+    font-size: large;
+    position: absolute;
+    left: 79%;
+    top: 18%;
+    color: white;
+    background-color: #e7332b;
+    width: 11%;
+    border: none;
+    border-radius: 0 0 10px 0;
+    padding: 10px;
+    text-align: center;
+}
