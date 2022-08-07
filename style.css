@@ -4,6 +4,11 @@ body{
     color: #1B1A17;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+
 
 .top-section{
     background-image: url(https://zuri.team/img/hero-bg.svg);

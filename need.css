@@ -3,25 +3,26 @@ body{
                                                 
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+
 .navbar{
     display: flex;
     justify-content: center;
-    padding: 20px;
+    align-items: center;
+    padding: 40px;
     position: fixed;
-    position: relative;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 3;
+    z-index: 2;
     color: #383838;
+    background-color: #ffffff;
 }
 
-/* 
-a:hover{
-    background-color: #C4D7E0;
-    padding: 10px;
-    
-} */
+
 
 
 .img1{
