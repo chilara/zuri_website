@@ -1,6 +1,6 @@
 body{
     font-family: 'Graphik', sans-serif;
-                                                
+    margin: 0;                                
 }
 
 html{
@@ -202,13 +202,14 @@ html{
 
 
 .text2{
-    margin-left: 8%;
+    margin-left: 7%;
 }
 
 
 .we-have{
     width: 60%;
     margin-top: 30%;
+    font-size: 41px;
 
 }
 
@@ -240,3 +241,83 @@ html{
     margin-left: 2%;
     margin-right: 2%;
 }
+
+
+
+.skills{
+    width: 25%;
+    margin-top: 5%;
+    margin-left: 8%;
+    font-size: 41px;
+}
+
+.four-row{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-bottom: 5%;
+}
+
+.row-con{
+    text-align: center;
+    color: grey;
+    font-weight: 500;
+    width: 17%;
+    border: none;
+    border-radius: 10px ;
+    font-size: 25px;
+}
+
+
+
+.ui{
+    height: 80px;
+
+    
+
+}
+
+
+.backend{
+    height: 80px;
+    margin-left: 2%;
+   
+}
+
+
+.devops{
+    height: 80px;
+    margin-left: 2%;
+   
+}
+
+
+.frontend{
+    height: 80px;
+    margin-left: 2%;
+ 
+}
+
+
+
+
+.img6{
+    width: 25%;
+    height: 25%;
+    position: absolute;
+    top: 201%;
+    right: 0;
+
+   
+}
+
+
+.where{
+    width: 25%;
+    margin-top: 5%;
+    margin-left: 8%;
+    font-size: 41px;
+}
+
+
+
