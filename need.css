@@ -321,3 +321,18 @@ html{
 
 
 
+.row-con1{
+    text-align: center;
+    color: grey;
+    font-weight: 500;
+    border: none;
+    border-radius: 10px ;
+    /* font-size: 25px; */
+}
+
+
+.github{
+    height: 60px;
+    width: 18%;
+}
+
